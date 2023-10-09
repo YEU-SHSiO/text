@@ -1,0 +1,11 @@
+body{
+    background-image: url(/magic/images/alo.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+d:hover{
+    color: blueviolet;
+    font-size: 1em;
+    
+}
